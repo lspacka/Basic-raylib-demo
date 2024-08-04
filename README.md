@@ -1,5 +1,7 @@
 # Basic raylib demo
 
-the first thingy I made trying to work out how to use raylib with vscode
+the very first thingy I made with raylib while trying to work out how to use it with vscode
 
-to compile: ctrl+shift+p -> run tasks -> build debug
+#### to compile: 
+
+ctrl+shift+p -> run task -> build debug
