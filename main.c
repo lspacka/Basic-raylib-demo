@@ -19,6 +19,8 @@
 *
 ********************************************************************************************/
 
+// gcc main.c -o demo -lraylib -lgdi32 -lwinmm -Wall -std=c99
+
 #include "raylib.h"
 
 #if defined(PLATFORM_WEB)
